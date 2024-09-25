@@ -14,7 +14,7 @@
 // let valFloat= parseFloat(val) //Convertendo variável
 // console.log(typeof valFloat); //Print do tipo da variável
 
-// // Exercício 3
+// // // Exercício 3
 // // Declar a variável como int
 // let numero = 10;
 // console.log(typeof numero);
@@ -27,3 +27,13 @@
 
 // let numeroFloat = 12.45 // Variável float
 // console.log(typeof parseInt(numeroFloat)) // print do tipo da variável convertida para int
+
+// Exercício 5
+let nome="Kaike Vital"; // Variável nome
+console.log("Nome: " + nome) // Print  nome
+let idade="20"; // Variável idade
+console.log("Idade: " + idade)// Print idade
+let email="kaikevital2003@outlook.com" // Variável email
+console.log("Email: " + email) // Print email
+let telefone="(11)998787202" //Variável telefone
+console.log("Telefone: " + telefone) // Print Telefone
