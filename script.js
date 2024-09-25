@@ -7,3 +7,9 @@
 // console.log(variavelNulo);
 // console.log(variavelUndefined);
 // console.log(variavel);
+
+// Exercício 2
+
+var val = "12";
+var valFloat= parseFloat(val)
+console.log(typeof valFloat);
