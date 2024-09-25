@@ -1,8 +1,8 @@
 // Exercício 1
 
-// var variavelNulo = null; //Variável do tipo nulo.
-// var variavelUndefined; //Variável do tipo undefined.
-// var variavel = 10; //Variável com valor
+let variavelNulo = null; //Variável do tipo nulo.
+let variavelUndefined; //Variável do tipo undefined.
+let variavel = 10; //Variável com valor
 
 // console.log(variavelNulo);
 // console.log(variavelUndefined);
@@ -10,6 +10,6 @@
 
 // Exercício 2
 
-var val = "12";
-var valFloat= parseFloat(val)
+let val = "12";
+let valFloat= parseFloat(val)
 console.log(typeof valFloat);
